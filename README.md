@@ -1,4 +1,4 @@
-# 🚀 Accredian Enterprise — Landing Page Clone
+# 🚀 Accredian Enterprise
 
 A polished, fully responsive **Next.js 14** recreation of the [Accredian Enterprise](https://enterprise.accredian.com/) landing page, built as part of a Full Stack Developer Intern assignment.
 
